@@ -12,7 +12,7 @@ import Pricing from './pages/Pricing.jsx'
 import InterviewReport from './pages/InterviewReport.jsx'
 
 
-export const ServerUrl="http://localhost:8000"
+export const ServerUrl="https://interviewmock-skbe.onrender.com"
 
 function App() {
   const dispatch = useDispatch()
